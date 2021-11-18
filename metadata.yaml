@@ -1,0 +1,31 @@
+_repo: Hans-Andersen-s-Fairy-Tales_66688
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Robinson, William J. (William Josephus)
+    alias: Robinson, William Josephus
+    birthdate: 1867
+    deathdate: 1936
+    gutenberg_agent_id: '24922'
+    url: http://www.gutenberg.org/2009/agents/24922
+creator:
+  author:
+    agent_name: Andersen, H. C. (Hans Christian)
+    alias: Andersen, Hans Christian
+    birthdate: 1805
+    deathdate: 1875
+    gutenberg_agent_id: '2298'
+    url: http://www.gutenberg.org/2009/agents/2298
+    wikipedia: https://en.wikipedia.org/wiki/Hans_Christian_Andersen
+description: ''
+gutenberg_issued: '2021-11-07'
+identifiers:
+  gutenberg: '66688'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Hans Andersen's Fairy Tales
+url: http://www.gutenberg.org/ebooks/66688
